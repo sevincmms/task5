@@ -1,8 +1,55 @@
-p {
-    background-color: teal;
-    margin: 40px;
-    padding: 15px, 25px;
-    box-sizing: border-box;
-    width: 250px;
-    border: 5px solid black;
+h1 {
+    font-weight: 900;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid #80ced6;
+    padding: 10px;
+}
+.biography {
+    border: 1px solid #80ced6;
+    padding: 30px;
+}
+ul {
+    list-style-type: square;
+}
+body {
+    background-color: #f0fff8;
+    font-family: "Montserrat", sans-serif;
+}
+.life {
+    border: 1px solid #80ced6;
+    margin: 20px 5px;
+    padding: 25px;
+}
+.life ul {
+    list-style-type: square;
+}
+.life li {
+    margin-bottom: 5px;
+}
+h2 {
+    font-weight: 900;
+}
+.childhood {
+    border: 1px solid #80ced6;
+    padding: 25px 35px;
+    margin: 20px 5px;
+}
+.childhood p {
+    margin: 20px;
+}
+.facts {
+    border: 1px solid #80ced6;
+    padding: 25px;
+    margin: 20px 5px;
+}
+.facts ul {
+    life-style-type: square;
+}
+.facts li {
+    margin-bottom: 5px;
 }
